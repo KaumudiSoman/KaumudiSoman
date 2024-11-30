@@ -4,7 +4,7 @@ ___
 A Passionate Web Developer
 
 ## My Skills
-- **Programming Languages**: <i class="fa-brands fa-python"></i>, <i class="fa-brands fa-js"></i>, <i class="fa-brands fa-java"></i>.
+- **Programming Languages**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 - **Frameworks/Tools**: React, Node.js, etc.
 - **Others**: Git, Docker, etc.
 <!--
