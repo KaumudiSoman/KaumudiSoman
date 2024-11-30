@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>Hi 👋 I am Kaumudi</h2>
-  <p>A Passionate Web Developer</p>
+  <h1>Hi 👋 I am Kaumudi</h1>
+  <p><strong>A Passionate Web Developer</strong></p>
 </div>
 
 ## My Skills
