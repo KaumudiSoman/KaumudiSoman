@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi👋 I am Kaumudi
+___
 
+A Passionate Web Developer
+
+## My Skills
+- **Programming Languages**: <i class="fa-brands fa-python"></i>, <i class="fa-brands fa-js"></i>, <i class="fa-brands fa-java"></i>.
+- **Frameworks/Tools**: React, Node.js, etc.
+- **Others**: Git, Docker, etc.
 <!--
 **KaumudiSoman/KaumudiSoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
